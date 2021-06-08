@@ -3,6 +3,6 @@
 - 💞️ I’m looking to collaborate on the following topics:
   -  decentralization,
   -  Artificial intelligence and big data,
-  -  various financial services,
+  -  financial systems,
   -  large ecommerce projects
 - 📫 You can reach me on martin_breznik@hotmail.com or on https://bprogramming.com/
