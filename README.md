@@ -4,5 +4,5 @@
   -  decentralization,
   -  Artificial intelligence and big data,
   -  financial systems,
-  -  large ecommerce projects
+  -  ecommerce
 - 📫 You can reach me on martin_breznik@hotmail.com or on https://bprogramming.com/
